@@ -2,6 +2,8 @@
 此个人博客的搭建过程参考了：https://blog.cuijiacai.com/blog-building/
 下面的一些说明也引用了该文。
 
+采用的主题是next
+
 各部分的含义：
 
     _config.yml
