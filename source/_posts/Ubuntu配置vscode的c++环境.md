@@ -2,8 +2,8 @@
 title: Ubuntu安装Visual Studio Code
 date: 2023-09-15 13:30:34
 tags:
--Ubuntu
--vscode
+- Ubuntu
+- vscode
 ---
 
 

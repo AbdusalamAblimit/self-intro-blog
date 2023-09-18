@@ -2,8 +2,8 @@
 title: Windows配置vscode的C++环境
 date: 2023-09-18 22:47:39
 tags:
--Windows
--Vscode
+- Windows
+- Vscode
 ---
 
 ## 1. 下载mingw64
