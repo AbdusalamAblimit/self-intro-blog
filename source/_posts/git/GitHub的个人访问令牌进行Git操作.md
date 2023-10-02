@@ -26,7 +26,6 @@ categories:
 通过将token直接包含在remote URL中，你可以避免每次进行远程操作时都输入token。
 
 ```
-bash
 git remote set-url origin https://TOKEN@github.com/USERNAME/REPO_NAME.git
 ```
 
@@ -43,7 +42,6 @@ git remote set-url origin https://TOKEN@github.com/USERNAME/REPO_NAME.git
 Credential helper允许你存储git凭据，这样你不需要每次操作时都输入它们。要设置git使用默认的credential helper进行存储，执行：
 
 ```
-bash
 git config --global credential.helper store
 ```
 
