@@ -8,9 +8,9 @@ tags:
 
 ## 1. 下载mingw64
 
-从https://github.com/niXman/mingw-builds-binaries/releases下载mingw64。可以是最新版的这个：
+从 https://github.com/niXman/mingw-builds-binaries/releases 下载mingw64。可以是最新版的这个：
 
-<img src="C:/Users/Abdus/AppData/Roaming/Typora/typora-user-images/image-20230918225121542.png" alt="image-20230918225121542" style="zoom: 50%;" />
+<img src="https://abdusalam-typora.oss-cn-beijing.aliyuncs.com/img-for-typora/image-20231002145257213.png" alt="image-20231002145257213" style="zoom:50%;" />
 
 解压后放到某个目录，以`C:/mingw64`为例。
 
