@@ -1,5 +1,5 @@
 ---
-title: Ubuntu安装Visual Studio Code
+title: Ubuntu配置vscode的C++环境
 date: 2023-09-15 13:30:34
 tags:
 - Ubuntu
